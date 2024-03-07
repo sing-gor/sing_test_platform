@@ -162,3 +162,4 @@ cython_debug/
 
 sing_test_platform/privta_config.py
 sing_test_platform/test_config.py
+**/migrations/**
